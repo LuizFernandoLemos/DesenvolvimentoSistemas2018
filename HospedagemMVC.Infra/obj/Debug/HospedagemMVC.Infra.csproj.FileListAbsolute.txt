@@ -1,0 +1,20 @@
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.pdb
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll.CodeAnalysisLog.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll.lastcodeanalysissucceeded
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.pdb

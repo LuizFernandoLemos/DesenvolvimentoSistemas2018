@@ -1,0 +1,38 @@
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.pdb
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.pdb
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.csprojResolveAssemblyReference.cache
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll.CodeAnalysisLog.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll.lastcodeanalysissucceeded
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.pdb

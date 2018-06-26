@@ -1,0 +1,252 @@
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll.config
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.pdb
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Owin.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\WebGrease.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.pdb
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.csprojResolveAssemblyReference.cache
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.dll
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll.config
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Owin.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\WebGrease.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll.config
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Owin.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\WebGrease.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll.config
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Web.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Owin.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\WebGrease.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Aplication.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Domain.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.Data.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\HospedagemMVC.Infra.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Helpers.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Mvc.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Optimization.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.Razor.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Newtonsoft.Json.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Web\obj\Debug\HospedagemMVC.Web.pdb

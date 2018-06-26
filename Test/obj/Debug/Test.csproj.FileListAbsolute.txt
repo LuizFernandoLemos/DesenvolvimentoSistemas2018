@@ -1,0 +1,132 @@
+c:\users\helder rocha israel\documents\visual studio 2013\Projects\HospedagemMVC\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Test.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Test.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\obj\Debug\Test.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\obj\Debug\Test.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Moq.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Moq.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Test.dll.config
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\EntityFramework.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\EntityFramework.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentAssertions.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentNHibernate.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Iesi.Collections.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\NHibernate.dll
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentAssertions.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentAssertions.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentNHibernate.pdb
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\FluentNHibernate.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\Iesi.Collections.xml
+C:\Users\Helder Rocha Israel\Documents\Visual Studio 2013\Projects\HospedagemMVC\Test\bin\Debug\NHibernate.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Test.dll.config
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Test.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Test.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\EntityFramework.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentAssertions.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentNHibernate.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Iesi.Collections.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Moq.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\NHibernate.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\EntityFramework.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentAssertions.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentAssertions.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentNHibernate.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\FluentNHibernate.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Iesi.Collections.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\Moq.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\bin\Debug\NHibernate.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\obj\Debug\Test.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Hugo\HospedagemMVC\HospedagemMVC\Test\obj\Debug\Test.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Test.dll.config
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Test.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Test.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\EntityFramework.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentAssertions.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentNHibernate.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Iesi.Collections.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Moq.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\NHibernate.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\EntityFramework.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentAssertions.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentAssertions.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentNHibernate.pdb
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\FluentNHibernate.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Iesi.Collections.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\Moq.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\bin\Debug\NHibernate.xml
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\obj\Debug\Test.dll
+C:\UNIPLAC\Faculdade\5º Semestre\Desenvolvimento de Sistemas\Thiago\HospedagemMVC\Test\obj\Debug\Test.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Test.dll.config
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Test.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Test.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\EntityFramework.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentAssertions.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentNHibernate.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Iesi.Collections.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Moq.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\NHibernate.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Aplication.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Domain.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.Data.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\HospedagemMVC.Infra.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\EntityFramework.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentAssertions.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentAssertions.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentAssertions.Core.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentNHibernate.pdb
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\FluentNHibernate.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Iesi.Collections.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\Moq.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\bin\Debug\NHibernate.xml
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\obj\Debug\Test.dll
+C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\Test\obj\Debug\Test.pdb
