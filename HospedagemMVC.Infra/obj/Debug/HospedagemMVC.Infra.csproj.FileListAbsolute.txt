@@ -18,3 +18,8 @@ C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\b
 C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.csprojResolveAssemblyReference.cache
 C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.dll
 C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.pdb
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.dll
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Infra\bin\Debug\HospedagemMVC.Infra.pdb
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.csprojResolveAssemblyReference.cache
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.dll
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Infra\obj\Debug\HospedagemMVC.Infra.pdb

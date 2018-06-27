@@ -36,3 +36,12 @@ C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\
 C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.csprojResolveAssemblyReference.cache
 C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.dll
 C:\Users\Cliente\DesenvolvimentoSistemas2018\HospedagemMVC\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.pdb
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.dll
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Domain.pdb
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.dll
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.dll
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\bin\Debug\HospedagemMVC.Infra.pdb
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\bin\Debug\Portable.DataAnnotations.pdb
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.csprojResolveAssemblyReference.cache
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.dll
+C:\DesenvolvimentoSistemas2018\HospedagemMVC.Domain\obj\Debug\HospedagemMVC.Domain.pdb
